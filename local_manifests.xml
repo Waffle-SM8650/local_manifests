@@ -34,8 +34,8 @@
 <remove-project path="hardware/lineage/interfaces" />
 
 <!-- LineageOS OnePlus Device Trees -->
-<project name="OnePlus-12-Developments/device_oneplus_waffle" path="device/oneplus/waffle" remote="gh" revision="infinity-16" />
-<project name="OnePlus-12-Developments/device_oneplus_sm8650-common" path="device/oneplus/sm8650-common" remote="gh" revision="infinity-16" />
+<project name="OnePlus-12-Developments/device_oneplus_waffle" path="device/oneplus/waffle" remote="gh" revision="A16" />
+<project name="OnePlus-12-Developments/device_oneplus_sm8650-common" path="device/oneplus/sm8650-common" remote="gh" revision="A16" />
 
 <!-- LineageOS OnePlus Vendor Trees -->
 <project name="OnePlus-12-Developments/proprietary_vendor_oneplus_waffle" path="vendor/oneplus/waffle" remote="gh" revision="sixteen" />
@@ -108,7 +108,7 @@
 <!-- project name="TheXPerienceProject/android_device_oneplus_waffle-kernel" path="device/oneplus/waffle-kernel" remote="github" revision="xpe-20.0" clone-depth="1" / -->
 
 <!-- Kernel Source -->
-<project name="OnePlus-12-Developments/anaconda_kernel_oneplus_sm8650" path="kernel/oneplus/sm8650" remote="gh" revision="anaconda-pineapple-waffle-a16" clone-depth="1" />
+<project name="yaap/kernel_oneplus_sm8650" path="kernel/oneplus/sm8650" remote="gh" revision="sixteen" clone-depth="1" />
 <project name="yaap/kernel_oneplus_sm8650-modules" path="kernel/oneplus/sm8650-modules" remote="gh" revision="sixteen" />
 <project name="yaap/kernel_oneplus_sm8650-devicetrees" path="kernel/oneplus/sm8650-devicetrees" remote="gh" revision="sixteen" />
 
