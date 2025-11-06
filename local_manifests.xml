@@ -22,8 +22,8 @@
 
 <!-- Kernel Source -->
 <project name="Waffle-SM8650/android_kernel_oneplus_sm8650" path="kernel/oneplus/sm8650" remote="gh" revision="lineage-23.0" clone-depth="1" />
-<project name="LineageOS/android_kernel_oneplus_sm8650-modules" path="kernel/oneplus/sm8650-modules" remote="lineage" revision="lineage-23.0" />
-<project name="LineageOS/android_kernel_oneplus_sm8650-devicetrees" path="kernel/oneplus/sm8650-devicetrees" remote="lineage" revision="lineage-23.0" />
+<project name="android_kernel_oneplus_sm8650-modules" path="kernel/oneplus/sm8650-modules" remote="lineage" revision="lineage-23.0" />
+<project name="android_kernel_oneplus_sm8650-devicetrees" path="kernel/oneplus/sm8650-devicetrees" remote="lineage" revision="lineage-23.0" />
 
 <!-- Extra trees -->
 <!-- project name="Chaitanyakm/vendor_bcr" path="vendor/bcr" remote="gh" revision="main" / -->
